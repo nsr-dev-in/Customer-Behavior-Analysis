@@ -101,10 +101,13 @@ Customer-Behavior-Analysis/
 - Exploratory Data Analysis (EDA)
 
 ---
+## 📷 Project Overview
+
+![Customer Behavior Analysis Overview](https://raw.githubusercontent.com/nsr-dev-in/Customer-Behavior-Analysis/main/overview.png)
+
+---
 
 ## 📷 Dashboard Preview
-
-![Customer Behavior Dashboard](https://raw.githubusercontent.com/nsr-dev-in/Customer-Behavior-Analysis/main/overview.jpg)
 
 ![Customer Behavior Dashboard](https://raw.githubusercontent.com/nsr-dev-in/Customer-Behavior-Analysis/main/powerbi_dashboard/dashboard.jpg)
 
