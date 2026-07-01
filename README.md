@@ -104,8 +104,6 @@ Customer-Behavior-Analysis/
 
 ## 📷 Dashboard Preview
 
-## 📷 Dashboard Preview
-
 ![Customer Behavior Dashboard](https://raw.githubusercontent.com/nsr-dev-in/Customer-Behavior-Analysis/main/powerbi_dashboard/dashboard.jpg)
 
 ### Dashboard Highlights
