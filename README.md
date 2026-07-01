@@ -104,7 +104,16 @@ Customer-Behavior-Analysis/
 
 ## 📷 Dashboard Preview
 
-> Add screenshots of your Power BI Dashboard here.
+## 📷 Dashboard Preview
+
+![Customer Behavior Dashboard](https://raw.githubusercontent.com/nsr-dev-in/Customer-Behavior-Analysis/main/powerbi_dashboard/dashboard.jpg)
+
+### Dashboard Highlights
+- Total Customers Analysis
+- Product Category Performance
+- Customer Purchase Trends
+- Sales Distribution Insights
+- Interactive Business Intelligence Dashboard
 
 ---
 
